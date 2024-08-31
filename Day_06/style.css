@@ -1,0 +1,17 @@
+/* img {
+    width: auto;
+    height: 200px;
+    border: 5px solid whitesmoke;
+    border-radius: 50%;
+    padding: 10px;
+} */
+#d {
+    width: 400px;
+    height: 600px;
+}
+
+body {
+    background-image: url('images/3d.jpg');
+    background-repeat: no-repeat;
+    background-size: 600px 300px;
+}
