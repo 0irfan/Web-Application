@@ -6,7 +6,7 @@ ul {
 }
 
 ul li {
-    justify-content: space-evenly;
+    display: inline;
     font-size: 20px;
-    padding: 20px;
+
 }
